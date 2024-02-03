@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  gap: 1rem;
+}
+
+#drawing-board {
+  border: 1px solid #000;
+}
